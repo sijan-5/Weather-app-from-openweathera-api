@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="please_wait">Please wait</string>
+    <string name="wind">wind</string>
+    <string name="weather">Weather</string>
+    <string name="condition">Condition</string>
+
+    <string name="name">Name</string>
+    <string name="degree">Degree</string>
+    <string name="percent">Percent</string>
+    <string name="windx">Windx</string>
+    <string name="miles_hour">Miles/hour</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="refresh">Refresh</string>
+</resources>
